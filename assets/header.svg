@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Inter:wght@400;700;900&amp;display=swap');
+      
+      .bg { fill: #F7EBE1; }
+      .text-primary { fill: #E02138; }
+      .text-dark { fill: #0D1117; }
+      .text-cyan { fill: #00D2FF; }
+      .text-gray { fill: #8B949E; }
+      .bg-dark { fill: #0D1117; }
+      
+      .font-mono { font-family: 'Fira Code', 'Consolas', 'Courier New', monospace; }
+      .font-sans { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+      
+      .logo { font-size: 24px; font-weight: 700; letter-spacing: -0.5px; }
+      .subtitle { font-size: 14px; fill: #8B949E; font-weight: 400; }
+      
+      .title { font-size: 56px; font-weight: 900; letter-spacing: -2px; line-height: 1; }
+      .terminal-text { font-size: 14px; }
+      
+      .grid-lines { stroke: rgba(139, 148, 158, 0.1); stroke-width: 1; stroke-dasharray: 4, 4; }
+      .cursor { animation: blink 1s step-end infinite; }
+      
+      @keyframes blink { 0%, 100% { fill: transparent; } 50% { fill: #00D2FF; } }
+    </style>
+  </defs>
+
+  <rect width="800" height="300" class="bg" />
+  
+  <!-- Subtle Background Pattern -->
+  <line x1="0" y1="150" x2="800" y2="150" class="grid-lines" />
+  <line x1="400" y1="0" x2="400" y2="300" class="grid-lines" />
+  <text x="650" y="80" class="font-mono text-gray" opacity="0.1" font-size="80" font-weight="700">{ }</text>
+  <text x="80" y="240" class="font-mono text-gray" opacity="0.1" font-size="80" font-weight="700">&lt;/&gt;</text>
+
+  <!-- Logo -->
+  <text x="40" y="50" class="font-mono text-primary logo">&lt;IAHN/&gt;</text>
+  <text x="40" y="70" class="font-mono subtitle">// backend_dev</text>
+
+  <!-- Left Content -->
+  <text x="40" y="140" class="font-mono text-gray subtitle">// estado actual</text>
+  <text x="40" y="195" class="font-sans text-primary title">HELLO</text>
+  <text x="40" y="250" class="font-sans text-primary title">GITHUB!</text>
+  <rect x="40" y="270" width="3" height="24" fill="#0D1117" />
+  <text x="50" y="287" class="font-sans text-dark" font-size="14" font-style="italic">"Construyendo en rojo, pensando en cloud."</text>
+
+  <!-- Terminal Window (Right) -->
+  <g transform="translate(380, 50)">
+    <!-- Terminal Shadow/Border -->
+    <rect x="5" y="5" width="380" height="200" fill="#0D1117" opacity="0.1" />
+    <rect x="0" y="0" width="380" height="200" class="bg-dark" rx="6" />
+    
+    <!-- Window Controls -->
+    <circle cx="20" cy="20" r="5" fill="#E02138" />
+    <circle cx="35" cy="20" r="5" fill="#F5A623" />
+    <circle cx="50" cy="20" r="5" fill="#00D2FF" />
+    <text x="65" y="24" class="font-mono text-gray" font-size="12">profile.json</text>
+
+    <!-- Terminal Content -->
+    <text x="20" y="55" class="font-mono text-cyan terminal-text">></text>
+    <text x="35" y="55" class="font-mono text-gray terminal-text">cat setup.js</text>
+    
+    <text x="20" y="85" class="font-mono text-primary terminal-text">const</text>
+    <text x="70" y="85" class="font-mono text-cyan terminal-text">github</text>
+    <text x="125" y="85" class="font-mono text-gray terminal-text">=</text>
+    <text x="140" y="85" class="font-mono text-gray terminal-text">{</text>
+    
+    <text x="35" y="110" class="font-mono text-dark" stroke="#8B949E" stroke-width="0" fill="#8B949E" font-size="14">objective:</text>
+    <text x="125" y="110" class="font-mono text-cyan terminal-text">"Crear soluciones robustas"</text>
+    <text x="360" y="110" class="font-mono text-gray terminal-text">,</text>
+    
+    <text x="35" y="135" class="font-mono text-gray terminal-text">learning:</text>
+    <text x="125" y="135" class="font-mono text-cyan terminal-text">"[Cloud, Arquitectura]"</text>
+    <text x="325" y="135" class="font-mono text-gray terminal-text">,</text>
+
+    <text x="35" y="160" class="font-mono text-gray terminal-text">open_to:</text>
+    <text x="125" y="160" class="font-mono text-cyan terminal-text">"Colaboraciones Open Source"</text>
+    
+    <text x="20" y="185" class="font-mono text-gray terminal-text">};</text>
+    <rect x="45" y="173" width="8" height="15" fill="#0D1117" class="cursor" />
+  </g>
+</svg>

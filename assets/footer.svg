@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Inter:wght@400;700;900&amp;display=swap');
+      
+      .bg { fill: #F7EBE1; }
+      .text-primary { fill: #E02138; }
+      .text-dark { fill: #0D1117; }
+      .text-gray { fill: #8B949E; }
+      
+      .font-mono { font-family: 'Fira Code', 'Consolas', 'Courier New', monospace; font-size: 14px; font-weight: 600;}
+      .font-sans { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 900; }
+      
+      .box {
+        fill: #F7EBE1;
+        stroke: #0D1117;
+        stroke-width: 3;
+      }
+      .box-shadow {
+        fill: #0D1117;
+      }
+      .title {
+        font-size: 40px;
+        fill: #0D1117;
+      }
+    </style>
+  </defs>
+
+  <rect width="800" height="300" class="bg" />
+
+  <!-- Title -->
+  <text x="40" y="60" class="font-sans text-primary title" font-size="46">// contacto</text>
+  <rect x="40" y="80" width="3" height="150" fill="#E02138" />
+
+  <!-- Subtitle -->
+  <text x="60" y="100" class="font-mono text-gray">¿Listo para construir el mañana?</text>
+  <text x="60" y="125" class="font-mono text-gray">Pásate por mis repos o envíame</text>
+  <text x="60" y="150" class="font-mono text-gray">un pull request al inbox.</text>
+
+  <g transform="translate(400, 70)">
+    
+    <!-- Box 1: Email -->
+    <rect x="10" y="15" width="350" height="60" class="box-shadow" />
+    <rect x="6" y="11" width="350" height="60" class="box" />
+    <text x="181" y="47" class="font-mono text-dark" text-anchor="middle">✉️  VERA.ICM02@GMAIL.COM</text>
+
+    <!-- Box 2: LinkedIn -->
+    <rect x="10" y="95" width="350" height="60" class="box-shadow" />
+    <rect x="6" y="91" width="350" height="60" class="box" />
+    <text x="181" y="127" class="font-mono text-dark" text-anchor="middle">🔗  LINKEDIN.COM/IN/IAHN-VERA</text>
+
+  </g>
+</svg>
