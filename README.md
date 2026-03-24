@@ -38,7 +38,7 @@ Me apasiona desarrollar sistemas eficientes y resolver problemas complejos media
 
 - 🏗️ Especializado en **Desarrollo Full Stack** y **Backend**.
 - ☁️ Mentalidad enfocada en **entornos Cloud** y arquitecturas escalables.
-- 🎨 Combino el pensamiento lógico del backend con un gusto por el detalle estético, visible en mi [Portafolio](https://portafolio-nine-alpha-44.vercel.app/).
+- 🎨 Combino el pensamiento lógico del backend con un gusto por el detalle estético, visible en mi <a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">Portafolio</a>.
 - 🤝 En constante aprendizaje, buscando siempre colaborar y aportar soluciones de valor para el negocio y los usuarios.
 
 <br/>
@@ -62,7 +62,7 @@ _(Un vistazo rápido a mis herramientas principales. Me adapto rápidamente a nu
 
 | Proyecto                                | Descripción                                                                                                                        | Rol / Stack                  |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **[Portafolio Interactivo](https://portafolio-nine-alpha-44.vercel.app/)** | Mi portafolio personal combinando diseño asimétrico tipo manga y animaciones scroll con un layout Bento Box interactivo.           | Frontend UI/UX, React        |
+| **<a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">Portafolio Interactivo</a>** | Mi portafolio personal combinando diseño asimétrico tipo manga y animaciones scroll con un layout Bento Box interactivo.           | Frontend UI/UX, React        |
 | **[Dashboard Analítico Automático](#)** | Automatización de procesamiento de encuestas complejas y datos demográficos (Censo 2024) conectado en tiempo real a Looker Studio. | Google Apps Script, Data Viz |
 | **[Tu Proyecto Backend Aquí](#)**       | _(Agrega aquí el link a tu mejor proyecto de lógica de negocios, API o arquitectura cloud)_                                        | Node.js / Base de Datos      |
 
