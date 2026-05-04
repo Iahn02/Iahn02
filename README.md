@@ -40,6 +40,7 @@ Me apasiona desarrollar sistemas eficientes y resolver problemas complejos media
 - ☁️ Mentalidad enfocada en **entornos Cloud** y arquitecturas escalables.
 - 🎨 Combino el pensamiento lógico del backend con un gusto por el detalle estético, visible en mi <a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">Portafolio</a>.
 - 🤝 En constante aprendizaje, buscando siempre colaborar y aportar soluciones de valor para el negocio y los usuarios.
+- 🟢 **Disponibilidad inmediata** para nuevas oportunidades.
 
 <br/>
 
@@ -60,11 +61,13 @@ _(Un vistazo rápido a mis herramientas principales. Me adapto rápidamente a nu
 
 > **💡 Nota:** _Aquí puedes visitar algunos de mis desarrollos recientes._
 
-| Proyecto                                | Descripción                                                                                                                        | Rol / Stack                  |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **<a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">Portafolio Interactivo</a>** | Mi portafolio personal combinando diseño asimétrico tipo manga y animaciones scroll con un layout Bento Box interactivo.           | Frontend UI/UX, React        |
-| **[Dashboard Analítico Automático](#)** | Automatización de procesamiento de encuestas complejas y datos demográficos (Censo 2024) conectado en tiempo real a Looker Studio. | Google Apps Script, Data Viz |
-| **[Tu Proyecto Backend Aquí](#)**       | _(Agrega aquí el link a tu mejor proyecto de lógica de negocios, API o arquitectura cloud)_                                        | Node.js / Base de Datos      |
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| **<a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">Portafolio Interactivo</a>** | Portafolio personal combinando diseño asimétrico tipo manga y animaciones scroll con un layout Bento Box interactivo. | React, Frontend UI/UX |
+| **<a href="https://proyectos-portafolio.vercel.app/" target="_blank">Hub de Proyectos</a>** | Sitio agregador donde despliego mockups, demos y prototipos de mis proyectos en un solo lugar. | Vercel, Frontend |
+| **Dashboard Analítico Automático** — <a href="https://proyectos-portafolio.vercel.app/Dashboard%20Anal%C3%ADtico%20Autom%C3%A1tico/mockup_app_script/index.html" target="_blank">Apps Script</a> · <a href="https://proyectos-portafolio.vercel.app/Dashboard%20Anal%C3%ADtico%20Autom%C3%A1tico/mockup_analisis_cualitativo/index.html" target="_blank">Análisis Cualitativo</a> · <a href="https://proyectos-portafolio.vercel.app/Dashboard%20Anal%C3%ADtico%20Autom%C3%A1tico/mockup_analisis_datos_python/index.html" target="_blank">Análisis Python</a> | Automatización de procesamiento de encuestas complejas y datos demográficos (Censo 2024) conectado en tiempo real a Looker Studio. | Google Apps Script, Python, Data Viz |
+| **<a href="https://github.com/Iahn02/React-Desafio-Pizzeria" target="_blank">React Desafío Pizzería</a>** | Aplicación e-commerce de pizzería con carrito, gestión de productos y flujo de checkout. | React, JavaScript |
+| **<a href="https://github.com/Iahn02/TodaLaPlata2" target="_blank">Toda La Plata</a>** | Plataforma full stack con módulos de gestión y vistas dinámicas. | JavaScript, Full Stack |
 
 <br/>
 
@@ -91,7 +94,7 @@ _(Un vistazo rápido a mis herramientas principales. Me adapto rápidamente a nu
 
 <p align="center">
   <a href="https://linkedin.com/in/iahn-vera" target="_blank">
-    <img src="https://img.shields.io/badge/Conecta_Conmigo-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7EBE1&labelColor=E02138" alt="Connect LinkedIn" />
+    <img src="https://img.shields.io/badge/Conecta_Conmigo-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7EBE1&labelColor=E02138" alt="Conecta conmigo en LinkedIn" />
   </a>
 </p>
 
