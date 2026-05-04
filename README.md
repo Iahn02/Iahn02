@@ -24,6 +24,9 @@
   <a href="https://portafolio-nine-alpha-44.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F7EBE1&labelColor=E02138" alt="Portafolio" />
   </a>
+  <a href="https://wa.me/56922420082" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=F7EBE1&labelColor=E02138" alt="WhatsApp" />
+  </a>
 </p>
 
 </div>
