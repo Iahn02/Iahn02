@@ -81,7 +81,7 @@ _(Un vistazo rápido a mis herramientas principales. Me adapto rápidamente a nu
     <img src="https://streak-stats.demolab.com?user=Iahn02&theme=transparent&hide_border=false&border=0D1117&background=F7EBE1&ring=E02138&fire=E02138&currStreakLabel=E02138&sideLabels=0D1117&dates=0D1117&currStreakNum=0D1117&sideNums=0D1117" alt="GitHub Streak" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iahn02&bg_color=F7EBE1&title_color=E02138&text_color=0D1117&border_color=0D1117&layout=compact&hide_border=false&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Iahn02&bg_color=F7EBE1&title_color=E02138&text_color=0D1117&border_color=0D1117&layout=compact&hide_border=false&langs_count=6&cache_seconds=86400" alt="Top Languages" />
   </p>
   <p><em>(Datos en tiempo real recopilados directamente de mi actividad y repositorios)</em></p>
 </div>
